@@ -14,5 +14,7 @@ Find the optimal combination for carrying the maximum value, withing a 36 Kg lim
 # How to build
 
 mkdir build
+
 cmake ..
+
 make
